@@ -60,7 +60,7 @@
 		4616129F1FE1B7A00021C159 /* ProfileNavigator */ = {
 			isa = PBXGroup;
 			children = (
-				461612B21FE1BA910021C159 /* ProfileModel */,
+				461612B21FE1BA910021C159 /* Model */,
 				461612B31FE1BA9D0021C159 /* Services */,
 				461612A01FE1B7A00021C159 /* AppDelegate.swift */,
 				461612A21FE1B7A00021C159 /* ProfileViewController.swift */,
@@ -73,12 +73,12 @@
 			path = ProfileNavigator;
 			sourceTree = "<group>";
 		};
-		461612B21FE1BA910021C159 /* ProfileModel */ = {
+		461612B21FE1BA910021C159 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				461612B81FE1C34E0021C159 /* ProfileManager.swift */,
 			);
-			path = ProfileModel;
+			path = Model;
 			sourceTree = "<group>";
 		};
 		461612B31FE1BA9D0021C159 /* Services */ = {
